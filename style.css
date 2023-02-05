@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+}
+.cal{
+    width: 250px;
+    height: 310px;
+    border-radius: 10px;
+    background-color: rgb(18, 19, 35);
+    box-shadow: 1px 2px 3px;
+    position: absolute;
+
+    
+
+}
+.cal .screen{
+    position: absolute;
+    width: 216px;
+    height: 55px;
+    background-color: rgb(171, 171, 204);
+    border-radius: 10px;
+    left: 16px;
+   padding: 5px;
+}
+.cal button{
+    border-color: rgb(191, 122, 19);
+    box-shadow: 5px ;
+    padding: 10px 20px;
+    margin-top: 5px;
+    border-radius: 2px;
+    border-radius: 15px 15px 15px 15px;
+}
+.cal .bts{
+    position: absolute;
+    top: 80px;
+    left: 16px;
+   
+
+   
+    
+
+}
+.cal .bts #c{
+    padding-left: 18px;
+
+}
+.cal .bts #b{
+    padding-left: 53px;
+    
+}
+.cal .bts #s{
+    padding-left: 22px;
+}
+.cal .bts #p{
+    padding-left: 17px;
+}
+.cal .bts #d{
+padding-left: 23px;
+}
+.cal .bts #eq{
+    padding-left: 73px;
+}
+
